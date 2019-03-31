@@ -1,0 +1,48 @@
+João da Silva,56,m,Campina Grande,s
+Maria das Dores,35,f,Sousa,n
+Josefina,43,f,João Pessoa,s
+Pafuncio,17,m,Patos,n
+Eucrasia,23,f,Campina Grande,s
+Severino,36,m,Sousa,s
+Cornélio,27,m,João Pessoa,n
+Petruquio,20,m,Patos,s
+Amanda,21,f,Campina Grande,s
+Amora,30,f,Patos,s
+Amélia,45,f,Esperanca,n
+Aluska,48,f,Guarabira,s
+Anna,50,f,Esperanca,n
+Atila,12,m,Areia,n
+Alan,10,m,Remigio,s
+Beatriz,15,f,Joao Pessoa,n
+Bernardo,64,m,Queimadas,n
+Bolinha,13,m,Patos,n
+Bigode,64,m,Sousa,s
+Dilma,120,f,Esperanca,s
+Deise,12,f,Campina Grande,n
+Dayane,10,f,Campina Grande,s
+Douglas,24,m,Joao Pessoa,n
+Daniella,15,f,Sousa,n
+Daniel,65,m,Picui,n
+Danilo,45,m,Areia,s
+Diego,78,m,Pocinhos,s
+Emerson,12,m,Lagoa Seca,s
+Eduardo,27,m,Caja,n
+Eusira,23,f,Remigio,n
+Emanuel,15,m,Lagoa de ROca,s
+Eustaquio,54,m,Areial,s
+Fabio,64,m,Sousa,n
+Fabricio,79,m,Princesa Isabel,n
+Fabiola,31,f,Cabaceiras,s
+Francisco,61,m,Cabaceiras,s
+Fabiana,64,f,Princesa Isabel,s
+Fabula,45,f,Picui,n
+Fatima,12,f,Areia,n
+Giselda,45,f,Esperanca,s
+Giraia,42,f,Campina Grande,n
+Gilson,74,m,Campina Grande,s
+Gabriela,35,f,Queimadas,n
+Giba,38,m,Areian,s
+Gigabite,89,m,Remigio,s
+Heitor,75,f,Alagoa Nova,n
+Heleito,45,m,Esperanca,n
+Heleno,54,m,Esperanca,s
